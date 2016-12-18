@@ -1,2 +1,1 @@
 # spectrums-processing
-Spectrums processing
